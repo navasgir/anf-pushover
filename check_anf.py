@@ -60,8 +60,8 @@ def main():
     data = urllib.parse.urlencode({
         "token": token,
         "user": user,
-        "title": "ANF",
-        "message": title,
+        "title": "12",
+        "message": " ",
         "url": link,
         "url_title": "Haberi ac",
     }).encode()

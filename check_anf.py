@@ -61,7 +61,7 @@ def main():
         "token": token,
         "user": user,
         "title": "12",
-        "message": " ",
+        "message": "7",
         "url": link,
         "url_title": "Haberi ac",
     }).encode()
